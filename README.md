@@ -7,6 +7,12 @@
 
 - 🔭 I'm currently learning **Python programming language.**
 
+- 🚀 I'm always eager to collaborate on **projects and exchange knowledge with fellow enthusiasts.**
+
+- 🌱 I'm also studying **various operating systems and networking concepts.**
+
+- 💼 In my free time, **I love working on projects related to cybersecurity and Python.**
+
 - 📫 How to reach me **tyagidrash21@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -17,6 +23,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+
 
 <!---
 offseckalki/offseckalki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
