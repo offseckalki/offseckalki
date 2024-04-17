@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Drash</h1>
-<h3 align="center">Aspiring Cybersecurity enthusiast from India 🇮🇳, passionate about learning and exploring the realms of cybersecurity.</h3> 
-<h3 align="center">Currently, I'm on a journey to enhance my skills and knowledge in this fascinating field.</h3>
+<h3 align="center">Aspiring Cybersecurity enthusiast from India 🇮🇳, passionate about learning and exploring the realms of cybersecurity.
+Currently, I'm on a journey to enhance my skills and knowledge in this fascinating field.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=offseckalki&label=Profile%20views&color=0e75b6&style=flat" alt="offseckalki" /> </p>
 
