@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Drash</h1>
+<img src="[image_url](https://github.com/offseckalki/offseckalki/blob/main/github-header-image.png?raw=true)" alt="Alt text" width="800" align="center">
+
 <h3 align="center">Aspiring Cybersecurity enthusiast from India 🇮🇳, passionate about learning and exploring the realms of cybersecurity.
 Currently, I'm on a journey to enhance my skills and knowledge in this fascinating field.</h3>
 
